@@ -257,7 +257,7 @@
 	<script src="script.js"></script>	
 </body>
 	
-?php<
-	include("footer.php");
+<?php
+    include("footer.php");
 ?>
 
